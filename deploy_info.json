@@ -1,0 +1,1214 @@
+{
+    "Qwen-7B": {
+        "ModelName": "Qwen-7B",
+        "ModelPath": "qwen",
+        "ModelTask": "text-generation",
+        "ModelVersion": "v1.1.8"
+    },
+    "Vicuna-7B": {
+        "ModelName": "Vicuna-7B",
+        "ModelPath": "AI-ModelScope",
+        "ModelTask": "text-generation",
+        "ModelVersion": "v1.0.2"
+    },
+    "chatglm3-6b": {
+        "ModelName": "chatglm3-6b",
+        "ModelPath": "ZhipuAI",
+        "ModelTask": "",
+        "ModelVersion": "v1.0.2"
+    },
+    "Qwen-7B-Chat": {
+        "ModelName": "Qwen-7B-Chat",
+        "ModelPath": "qwen",
+        "ModelTask": "chat",
+        "ModelVersion": "v1.1.8"
+    },
+    "nlp_seqgpt-560m": {
+        "ModelName": "nlp_seqgpt-560m",
+        "ModelPath": "damo",
+        "ModelTask": "text-generation",
+        "ModelVersion": "v1.0.1"
+    },
+    "LD_CytoBrainCerv": {
+        "ModelName": "LD_CytoBrainCerv",
+        "ModelPath": "landingAI",
+        "ModelTask": "image-object-detection",
+        "ModelVersion": "v0.4"
+    },
+    "chatglm2-6b-int4": {
+        "ModelName": "chatglm2-6b-int4",
+        "ModelPath": "ZhipuAI",
+        "ModelTask": "chat",
+        "ModelVersion": "v1.0.2"
+    },
+    "Qwen-7B-Chat-Int4": {
+        "ModelName": "Qwen-7B-Chat-Int4",
+        "ModelPath": "qwen",
+        "ModelTask": "",
+        "ModelVersion": "v1.1.8"
+    },
+    "Qwen-14B-Chat-Int4": {
+        "ModelName": "Qwen-14B-Chat-Int4",
+        "ModelPath": "qwen",
+        "ModelTask": "",
+        "ModelVersion": "v1.0.8"
+    },
+    "ViDT-logo-detection": {
+        "ModelName": "ViDT-logo-detection",
+        "ModelPath": "damo",
+        "ModelTask": "image-object-detection",
+        "ModelVersion": "v0.1.2"
+    },
+    "ViDT-face-detection": {
+        "ModelName": "ViDT-face-detection",
+        "ModelPath": "damo",
+        "ModelTask": "image-object-detection",
+        "ModelVersion": "v0.1.2"
+    },
+    "cv_tinynas_detection": {
+        "ModelName": "cv_tinynas_detection",
+        "ModelPath": "damo",
+        "ModelTask": "image-object-detection",
+        "ModelVersion": "v1.0.0"
+    },
+    "ofa_pretrain_base_zh": {
+        "ModelName": "ofa_pretrain_base_zh",
+        "ModelPath": "damo",
+        "ModelTask": "pretrain",
+        "ModelVersion": "v1.0.2"
+    },
+    "ofa_pretrain_tiny_en": {
+        "ModelName": "ofa_pretrain_tiny_en",
+        "ModelPath": "damo",
+        "ModelTask": "pretrain",
+        "ModelVersion": "v1.0.1"
+    },
+    "ofa_pretrain_base_en": {
+        "ModelName": "ofa_pretrain_base_en",
+        "ModelPath": "damo",
+        "ModelTask": "pretrain",
+        "ModelVersion": "v1.0.2"
+    },
+    "ofa_pretrain_huge_en": {
+        "ModelName": "ofa_pretrain_huge_en",
+        "ModelPath": "damo",
+        "ModelTask": "pretrain",
+        "ModelVersion": "v1.0.2"
+    },
+    "ofa_pretrain_medium_en": {
+        "ModelName": "ofa_pretrain_medium_en",
+        "ModelPath": "damo",
+        "ModelTask": "pretrain",
+        "ModelVersion": "v1.0.2"
+    },
+    "Wild_Animals_Detection": {
+        "ModelName": "Wild_Animals_Detection",
+        "ModelPath": "IoT-Edge",
+        "ModelTask": "image-object-detection",
+        "ModelVersion": "v1.1.3"
+    },
+    "cv_s3dg_video-embedding": {
+        "ModelName": "cv_s3dg_video-embedding",
+        "ModelPath": "damo",
+        "ModelTask": "video-embedding",
+        "ModelVersion": "v1.0.0"
+    },
+    "Baichuan2-7B-Chat-4bits": {
+        "ModelName": "Baichuan2-7B-Chat-4bits",
+        "ModelPath": "baichuan-inc",
+        "ModelTask": "text-generation",
+        "ModelVersion": "v1.0.1"
+    },
+    "cv_r2p1d_video_embedding": {
+        "ModelName": "cv_r2p1d_video_embedding",
+        "ModelPath": "damo",
+        "ModelTask": "video-embedding",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_uhdm_image-demoireing": {
+        "ModelName": "cv_uhdm_image-demoireing",
+        "ModelPath": "damo",
+        "ModelTask": "image-demoireing",
+        "ModelVersion": "v-0.0.3"
+    },
+    "Baichuan2-13B-Chat-4bits": {
+        "ModelName": "Baichuan2-13B-Chat-4bits",
+        "ModelPath": "baichuan-inc",
+        "ModelTask": "text-generation",
+        "ModelVersion": "v1.0.3"
+    },
+    "cv_resnet50_live-category": {
+        "ModelName": "cv_resnet50_live-category",
+        "ModelPath": "damo",
+        "ModelTask": "live-category",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_tinynas_classification": {
+        "ModelName": "cv_tinynas_classification",
+        "ModelPath": "damo",
+        "ModelTask": "image-classification",
+        "ModelVersion": "v1.0.0"
+    },
+    "spring_couplet_generation": {
+        "ModelName": "spring_couplet_generation",
+        "ModelPath": "damo",
+        "ModelTask": "text-generation",
+        "ModelVersion": "v1.0.2"
+    },
+    "cv_resnet50_video-category": {
+        "ModelName": "cv_resnet50_video-category",
+        "ModelPath": "damo",
+        "ModelTask": "video-category",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_u2net_salient-detection": {
+        "ModelName": "cv_u2net_salient-detection",
+        "ModelPath": "damo",
+        "ModelTask": "semantic-segmentation",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_peer_mnli_english-base": {
+        "ModelName": "nlp_peer_mnli_english-base",
+        "ModelPath": "damo",
+        "ModelTask": "nli",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_resnet18_human-detection": {
+        "ModelName": "cv_resnet18_human-detection",
+        "ModelPath": "damo",
+        "ModelTask": "human-detection",
+        "ModelVersion": "v1.0.0"
+    },
+    "Erlangshen-RoBERTa-110M-NLI": {
+        "ModelName": "Erlangshen-RoBERTa-110M-NLI",
+        "ModelPath": "Fengshenbang",
+        "ModelTask": "text-classification",
+        "ModelVersion": "v1.0.0"
+    },
+    "DCT_Net_finetune_on_genshin": {
+        "ModelName": "DCT_Net_finetune_on_genshin",
+        "ModelPath": "lskhh",
+        "ModelTask": "image-portrait-stylization",
+        "ModelVersion": "v1.0.2"
+    },
+    "cv_vit_object-detection_coco": {
+        "ModelName": "cv_vit_object-detection_coco",
+        "ModelPath": "damo",
+        "ModelTask": "image-object-detection",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_csanmt_translation_en2zh": {
+        "ModelName": "nlp_csanmt_translation_en2zh",
+        "ModelPath": "damo",
+        "ModelTask": "translation",
+        "ModelVersion": "v1.0.1"
+    },
+    "nlp_csanmt_translation_en2fr": {
+        "ModelName": "nlp_csanmt_translation_en2fr",
+        "ModelPath": "damo",
+        "ModelTask": "translation",
+        "ModelVersion": "v1.0.1"
+    },
+    "nlp_csanmt_translation_fr2en": {
+        "ModelName": "nlp_csanmt_translation_fr2en",
+        "ModelPath": "damo",
+        "ModelTask": "translation",
+        "ModelVersion": "v1.0.1"
+    },
+    "cv_res2net_salient-detection": {
+        "ModelName": "cv_res2net_salient-detection",
+        "ModelPath": "damo",
+        "ModelTask": "semantic-segmentation",
+        "ModelVersion": "v-0.0.3"
+    },
+    "nlp_csanmt_translation_en2es": {
+        "ModelName": "nlp_csanmt_translation_en2es",
+        "ModelPath": "damo",
+        "ModelTask": "translation",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_csanmt_translation_es2en": {
+        "ModelName": "nlp_csanmt_translation_es2en",
+        "ModelPath": "damo",
+        "ModelTask": "translation",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_vit-b16_vision-middleware": {
+        "ModelName": "cv_vit-b16_vision-middleware",
+        "ModelPath": "damo",
+        "ModelTask": "image-segmentation",
+        "ModelVersion": "v0.1.1"
+    },
+    "cv_TAdaConv_action-recognition": {
+        "ModelName": "cv_TAdaConv_action-recognition",
+        "ModelPath": "damo",
+        "ModelTask": "action-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "ofa_image-caption_coco_huge_en": {
+        "ModelName": "ofa_image-caption_coco_huge_en",
+        "ModelPath": "damo",
+        "ModelTask": "image-captioning",
+        "ModelVersion": "v1.0.1"
+    },
+    "ofa_image-caption_muge_base_zh": {
+        "ModelName": "ofa_image-caption_muge_base_zh",
+        "ModelPath": "damo",
+        "ModelTask": "image-captioning",
+        "ModelVersion": "v1.0.1"
+    },
+    "nlp_structbert_nli_chinese-base": {
+        "ModelName": "nlp_structbert_nli_chinese-base",
+        "ModelPath": "damo",
+        "ModelTask": "nli",
+        "ModelVersion": "v1.0.1"
+    },
+    "ofa_image-caption_coco_large_en": {
+        "ModelName": "ofa_image-caption_coco_large_en",
+        "ModelPath": "damo",
+        "ModelTask": "image-captioning",
+        "ModelVersion": "v1.0.1"
+    },
+    "nlp_structbert_nli_chinese-tiny": {
+        "ModelName": "nlp_structbert_nli_chinese-tiny",
+        "ModelPath": "damo",
+        "ModelTask": "nli",
+        "ModelVersion": "v1.0.1"
+    },
+    "cv_pathshift_action-recognition": {
+        "ModelName": "cv_pathshift_action-recognition",
+        "ModelPath": "damo",
+        "ModelTask": "action-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "ofa_ocr-recognition_web_base_zh": {
+        "ModelName": "ofa_ocr-recognition_web_base_zh",
+        "ModelPath": "damo",
+        "ModelTask": "ocr-recognition",
+        "ModelVersion": "v1.0.1"
+    },
+    "cv_resnest101_animal_recognition": {
+        "ModelName": "cv_resnest101_animal_recognition",
+        "ModelPath": "damo",
+        "ModelTask": "animal-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_res2net_camouflaged-detection": {
+        "ModelName": "cv_res2net_camouflaged-detection",
+        "ModelPath": "damo",
+        "ModelTask": "semantic-segmentation",
+        "ModelVersion": "v-0.0.2"
+    },
+    "ofa_ocr-recognition_scene_base_zh": {
+        "ModelName": "ofa_ocr-recognition_scene_base_zh",
+        "ModelPath": "damo",
+        "ModelTask": "ocr-recognition",
+        "ModelVersion": "v1.0.1"
+    },
+    "Erlangshen-RoBERTa-110M-Sentiment": {
+        "ModelName": "Erlangshen-RoBERTa-110M-Sentiment",
+        "ModelPath": "Fengshenbang",
+        "ModelTask": "text-classification",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_csanmt_translation_en2zh_base": {
+        "ModelName": "nlp_csanmt_translation_en2zh_base",
+        "ModelPath": "damo",
+        "ModelTask": "translation",
+        "ModelVersion": "v1.0.1"
+    },
+    "Erlangshen-RoBERTa-330M-Sentiment": {
+        "ModelName": "Erlangshen-RoBERTa-330M-Sentiment",
+        "ModelPath": "Fengshenbang",
+        "ModelTask": "text-classification",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_csanmt_translation_en2ru_base": {
+        "ModelName": "nlp_csanmt_translation_en2ru_base",
+        "ModelPath": "damo",
+        "ModelTask": "translation",
+        "ModelVersion": "v1.0.2"
+    },
+    "nlp_csanmt_translation_ru2en_base": {
+        "ModelName": "nlp_csanmt_translation_ru2en_base",
+        "ModelPath": "damo",
+        "ModelTask": "translation",
+        "ModelVersion": "v1.0.1"
+    },
+    "cv_tinynas_uav-detection_damoyolo": {
+        "ModelName": "cv_tinynas_uav-detection_damoyolo",
+        "ModelPath": "damo",
+        "ModelTask": "domain-specific-object-detection",
+        "ModelVersion": "v1.0"
+    },
+    "Erlangshen-RoBERTa-110M-Similarity": {
+        "ModelName": "Erlangshen-RoBERTa-110M-Similarity",
+        "ModelPath": "Fengshenbang",
+        "ModelTask": "text-classification",
+        "ModelVersion": "v1.0.0"
+    },
+    "Erlangshen-RoBERTa-330M-Similarity": {
+        "ModelName": "Erlangshen-RoBERTa-330M-Similarity",
+        "ModelPath": "Fengshenbang",
+        "ModelTask": "text-classification",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_tinynas_head-detection_damoyolo": {
+        "ModelName": "cv_tinynas_head-detection_damoyolo",
+        "ModelPath": "damo",
+        "ModelTask": "domain-specific-object-detection",
+        "ModelVersion": "v1.1.1"
+    },
+    "ofa_image-caption_coco_distilled_en": {
+        "ModelName": "ofa_image-caption_coco_distilled_en",
+        "ModelPath": "damo",
+        "ModelTask": "image-captioning",
+        "ModelVersion": "v1.0.1"
+    },
+    "ofa_summarization_gigaword_large_en": {
+        "ModelName": "ofa_summarization_gigaword_large_en",
+        "ModelPath": "damo",
+        "ModelTask": "text-summarization",
+        "ModelVersion": "v1.0.0"
+    },
+    "mplug_image-captioning_coco_base_en": {
+        "ModelName": "mplug_image-captioning_coco_base_en",
+        "ModelPath": "damo",
+        "ModelTask": "image-captioning",
+        "ModelVersion": "v1.0.1"
+    },
+    "nlp_palm2.0_pretrained_chinese-base": {
+        "ModelName": "nlp_palm2.0_pretrained_chinese-base",
+        "ModelPath": "damo",
+        "ModelTask": "text-generation",
+        "ModelVersion": "v1.0.0"
+    },
+    "mplug_image-captioning_coco_base_zh": {
+        "ModelName": "mplug_image-captioning_coco_base_zh",
+        "ModelPath": "damo",
+        "ModelTask": "image-captioning",
+        "ModelVersion": "v1.0.1"
+    },
+    "ofa_ocr-recognition_general_base_zh": {
+        "ModelName": "ofa_ocr-recognition_general_base_zh",
+        "ModelPath": "damo",
+        "ModelTask": "ocr-recognition",
+        "ModelVersion": "v1.0.2"
+    },
+    "nlp_gpt3_kuakua-robot_chinese-large": {
+        "ModelName": "nlp_gpt3_kuakua-robot_chinese-large",
+        "ModelPath": "damo",
+        "ModelTask": "text-generation",
+        "ModelVersion": "v1.0.1"
+    },
+    "cv_tinynas_human-detection_damoyolo": {
+        "ModelName": "cv_tinynas_human-detection_damoyolo",
+        "ModelPath": "damo",
+        "ModelTask": "domain-specific-object-detection",
+        "ModelVersion": "v1.1.0"
+    },
+    "cv_resnet50_image-classification_cc": {
+        "ModelName": "cv_resnet50_image-classification_cc",
+        "ModelPath": "damo",
+        "ModelTask": "content-check",
+        "ModelVersion": "v2.4"
+    },
+    "cv_googlenet_pgl-video-summarization": {
+        "ModelName": "cv_googlenet_pgl-video-summarization",
+        "ModelPath": "damo",
+        "ModelTask": "video-summarization",
+        "ModelVersion": "v1.0.1"
+    },
+    "mplug_image-captioning_coco_large_en": {
+        "ModelName": "mplug_image-captioning_coco_large_en",
+        "ModelPath": "damo",
+        "ModelTask": "image-captioning",
+        "ModelVersion": "v1.0.1"
+    },
+    "nlp_rom_passage-ranking_chinese-base": {
+        "ModelName": "nlp_rom_passage-ranking_chinese-base",
+        "ModelPath": "damo",
+        "ModelTask": "text-ranking",
+        "ModelVersion": "v1.1.0"
+    },
+    "cv_yolox_image-object-detection-auto": {
+        "ModelName": "cv_yolox_image-object-detection-auto",
+        "ModelPath": "damo",
+        "ModelTask": "image-object-detection",
+        "ModelVersion": "v1.1.0"
+    },
+    "cv_tinynas_object-detection_damoyolo": {
+        "ModelName": "cv_tinynas_object-detection_damoyolo",
+        "ModelPath": "damo",
+        "ModelTask": "image-object-detection",
+        "ModelVersion": "v1.2.2"
+    },
+    "ofa_ocr-recognition_document_base_zh": {
+        "ModelName": "ofa_ocr-recognition_document_base_zh",
+        "ModelPath": "damo",
+        "ModelTask": "ocr-recognition",
+        "ModelVersion": "v1.0.1"
+    },
+    "cv_unifuse_panorama-depth-estimation": {
+        "ModelName": "cv_unifuse_panorama-depth-estimation",
+        "ModelPath": "damo",
+        "ModelTask": "panorama-depth-estimation",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_crnn_ocr-recognition-general_damo": {
+        "ModelName": "cv_crnn_ocr-recognition-general_damo",
+        "ModelPath": "damo",
+        "ModelTask": "ocr-recognition",
+        "ModelVersion": "v2.4.0"
+    },
+    "cv_swinl_image-object-detection_dino": {
+        "ModelName": "cv_swinl_image-object-detection_dino",
+        "ModelPath": "damo",
+        "ModelTask": "image-object-detection",
+        "ModelVersion": "v2.0.0"
+    },
+    "ofa_visual-grounding_refcoco_large_en": {
+        "ModelName": "ofa_visual-grounding_refcoco_large_en",
+        "ModelPath": "damo",
+        "ModelTask": "visual-grounding",
+        "ModelVersion": "v1.0.0"
+    },
+    "ofa_visual-entailment_snli-ve_large_en": {
+        "ModelName": "ofa_visual-entailment_snli-ve_large_en",
+        "ModelPath": "damo",
+        "ModelTask": "visual-entailment",
+        "ModelVersion": "v1.0.1"
+    },
+    "cv_cspnet_image-object-detection_yolox": {
+        "ModelName": "cv_cspnet_image-object-detection_yolox",
+        "ModelPath": "damo",
+        "ModelTask": "image-object-detection",
+        "ModelVersion": "v2.0.0"
+    },
+    "cv_swinL_panoptic-segmentation_cocopan": {
+        "ModelName": "cv_swinL_panoptic-segmentation_cocopan",
+        "ModelPath": "damo",
+        "ModelTask": "image-segmentation",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_vitl16_segmentation_text-driven-seg": {
+        "ModelName": "cv_vitl16_segmentation_text-driven-seg",
+        "ModelPath": "damo",
+        "ModelTask": "text-driven-segmentation",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_tinynas_object-detection_damoyolo-m": {
+        "ModelName": "cv_tinynas_object-detection_damoyolo-m",
+        "ModelPath": "damo",
+        "ModelTask": "image-object-detection",
+        "ModelVersion": "v1.1"
+    },
+    "cv_tinynas_object-detection_damoyolo-t": {
+        "ModelName": "cv_tinynas_object-detection_damoyolo-t",
+        "ModelPath": "damo",
+        "ModelTask": "image-object-detection",
+        "ModelVersion": "v1.1"
+    },
+    "ofa_ocr-recognition_handwriting_base_zh": {
+        "ModelName": "ofa_ocr-recognition_handwriting_base_zh",
+        "ModelPath": "damo",
+        "ModelTask": "ocr-recognition",
+        "ModelVersion": "v1.0.1"
+    },
+    "cv_resnet101_image-single-human-parsing": {
+        "ModelName": "cv_resnet101_image-single-human-parsing",
+        "ModelPath": "damo",
+        "ModelTask": "image-segmentation",
+        "ModelVersion": "v1.0.1"
+    },
+    "nlp_gte_sentence-embedding_chinese-base": {
+        "ModelName": "nlp_gte_sentence-embedding_chinese-base",
+        "ModelPath": "damo",
+        "ModelTask": "sentence-embedding",
+        "ModelVersion": "v1.1.0"
+    },
+    "nlp_palm2.0_text-generation_chinese-base": {
+        "ModelName": "nlp_palm2.0_text-generation_chinese-base",
+        "ModelPath": "damo",
+        "ModelTask": "text-generation",
+        "ModelVersion": "v1.0.1"
+    },
+    "nlp_bert_sentiment-analysis_english-base": {
+        "ModelName": "nlp_bert_sentiment-analysis_english-base",
+        "ModelPath": "damo",
+        "ModelTask": "text-classification",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_structbert_abuse-detect_chinese-tiny": {
+        "ModelName": "nlp_structbert_abuse-detect_chinese-tiny",
+        "ModelPath": "damo",
+        "ModelTask": "text-classification",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_gpt3_poetry-generation_chinese-large": {
+        "ModelName": "nlp_gpt3_poetry-generation_chinese-large",
+        "ModelPath": "damo",
+        "ModelTask": "text-generation",
+        "ModelVersion": "v1.0.1"
+    },
+    "cv_resnet50_object-detection_maskscoring": {
+        "ModelName": "cv_resnet50_object-detection_maskscoring",
+        "ModelPath": "damo",
+        "ModelTask": "image-object-detection",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_gte_sentence-embedding_chinese-small": {
+        "ModelName": "nlp_gte_sentence-embedding_chinese-small",
+        "ModelPath": "damo",
+        "ModelTask": "sentence-embedding",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_gte_sentence-embedding_chinese-large": {
+        "ModelName": "nlp_gte_sentence-embedding_chinese-large",
+        "ModelPath": "damo",
+        "ModelTask": "sentence-embedding",
+        "ModelVersion": "v1.1.0"
+    },
+    "ofa_visual-grounding_refcoco_distilled_en": {
+        "ModelName": "ofa_visual-grounding_refcoco_distilled_en",
+        "ModelPath": "damo",
+        "ModelTask": "visual-grounding",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_ResNetC3D_action-detection_detection2d": {
+        "ModelName": "cv_ResNetC3D_action-detection_detection2d",
+        "ModelPath": "damo",
+        "ModelTask": "action-detection",
+        "ModelVersion": "v1.1.0"
+    },
+    "nlp_palm2.0_text-generation_chinese-large": {
+        "ModelName": "nlp_palm2.0_text-generation_chinese-large",
+        "ModelPath": "damo",
+        "ModelTask": "text-generation",
+        "ModelVersion": "v1.1.0"
+    },
+    "nlp_corom_sentence-embedding_chinese-base": {
+        "ModelName": "nlp_corom_sentence-embedding_chinese-base",
+        "ModelPath": "damo",
+        "ModelTask": "sentence-embedding",
+        "ModelVersion": "v1.1.0"
+    },
+    "cv_manual_facial-landmark-confidence_flcm": {
+        "ModelName": "cv_manual_facial-landmark-confidence_flcm",
+        "ModelPath": "damo",
+        "ModelTask": "face-2d-keypoints",
+        "ModelVersion": "v2.5"
+    },
+    "nlp_structbert_fact-checking_chinese-base": {
+        "ModelName": "nlp_structbert_fact-checking_chinese-base",
+        "ModelPath": "damo",
+        "ModelTask": "nli",
+        "ModelVersion": "v1.0.1"
+    },
+    "cv_resnet101_image-multiple-human-parsing": {
+        "ModelName": "cv_resnet101_image-multiple-human-parsing",
+        "ModelPath": "damo",
+        "ModelTask": "image-segmentation",
+        "ModelVersion": "v1.0.1"
+    },
+    "cv_swin-b_image-instance-segmentation_coco": {
+        "ModelName": "cv_swin-b_image-instance-segmentation_coco",
+        "ModelPath": "damo",
+        "ModelTask": "image-segmentation",
+        "ModelVersion": "v1.0.0"
+    },
+    "ofa_image-classification_imagenet_large_en": {
+        "ModelName": "ofa_image-classification_imagenet_large_en",
+        "ModelPath": "damo",
+        "ModelTask": "image-classification",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_convnextTiny_ocr-recognition-scene_damo": {
+        "ModelName": "cv_convnextTiny_ocr-recognition-scene_damo",
+        "ModelPath": "damo",
+        "ModelTask": "ocr-recognition",
+        "ModelVersion": "v2.4.0"
+    },
+    "cv_vgg19_facial-expression-recognition_fer": {
+        "ModelName": "cv_vgg19_facial-expression-recognition_fer",
+        "ModelPath": "damo",
+        "ModelTask": "facial-expression-recognition",
+        "ModelVersion": "v2.0.2"
+    },
+    "nlp_lstmcrf_word-segmentation_chinese-news": {
+        "ModelName": "nlp_lstmcrf_word-segmentation_chinese-news",
+        "ModelPath": "damo",
+        "ModelTask": "word-segmentation",
+        "ModelVersion": "v0.1"
+    },
+    "multi-modal_hitea_video-captioning_base_en": {
+        "ModelName": "multi-modal_hitea_video-captioning_base_en",
+        "ModelPath": "damo",
+        "ModelTask": "video-captioning",
+        "ModelVersion": "v1.1.1"
+    },
+    "cv_tinynas_object-detection_damoyolo_phone": {
+        "ModelName": "cv_tinynas_object-detection_damoyolo_phone",
+        "ModelPath": "damo",
+        "ModelTask": "domain-specific-object-detection",
+        "ModelVersion": "v1.1.0"
+    },
+    "cv_swinL_semantic-segmentation_cocopanmerge": {
+        "ModelName": "cv_swinL_semantic-segmentation_cocopanmerge",
+        "ModelPath": "damo",
+        "ModelTask": "image-segmentation",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_resnet50_fast-instance-segmentation_coco": {
+        "ModelName": "cv_resnet50_fast-instance-segmentation_coco",
+        "ModelPath": "damo",
+        "ModelTask": "image-segmentation",
+        "ModelVersion": "v0.1.1"
+    },
+    "cv_unet_person-image-cartoon_compound-models": {
+        "ModelName": "cv_unet_person-image-cartoon_compound-models",
+        "ModelPath": "damo",
+        "ModelTask": "image-portrait-stylization",
+        "ModelVersion": "v1.0.3"
+    },
+    "cv_convnextTiny_ocr-recognition-general_damo": {
+        "ModelName": "cv_convnextTiny_ocr-recognition-general_damo",
+        "ModelPath": "damo",
+        "ModelTask": "ocr-recognition",
+        "ModelVersion": "v2.4.0"
+    },
+    "mplug_visual-question-answering_coco_base_zh": {
+        "ModelName": "mplug_visual-question-answering_coco_base_zh",
+        "ModelPath": "damo",
+        "ModelTask": "visual-question-answering",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_structbert_word-segmentation_chinese-base": {
+        "ModelName": "nlp_structbert_word-segmentation_chinese-base",
+        "ModelPath": "damo",
+        "ModelTask": "word-segmentation",
+        "ModelVersion": "v1.0.3"
+    },
+    "mplug_visual-question-answering_coco_large_en": {
+        "ModelName": "mplug_visual-question-answering_coco_large_en",
+        "ModelPath": "damo",
+        "ModelTask": "visual-question-answering",
+        "ModelVersion": "v1.0.0"
+    },
+    "ofa_visual-entailment_snli-ve_distilled_v2_en": {
+        "ModelName": "ofa_visual-entailment_snli-ve_distilled_v2_en",
+        "ModelPath": "damo",
+        "ModelTask": "visual-entailment",
+        "ModelVersion": "v1.0.1"
+    },
+    "cv_convnextTiny_ocr-recognition-document_damo": {
+        "ModelName": "cv_convnextTiny_ocr-recognition-document_damo",
+        "ModelPath": "damo",
+        "ModelTask": "ocr-recognition",
+        "ModelVersion": "v2.4.0"
+    },
+    "nlp_structbert_word-segmentation_chinese-lite": {
+        "ModelName": "nlp_structbert_word-segmentation_chinese-lite",
+        "ModelPath": "damo",
+        "ModelTask": "word-segmentation",
+        "ModelVersion": "v1.0.2"
+    },
+    "nlp_structbert_outbound-industry_chinese-tiny": {
+        "ModelName": "nlp_structbert_outbound-industry_chinese-tiny",
+        "ModelPath": "damo",
+        "ModelTask": "text-classification",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_yolov5_video-multi-object-tracking_fairmot": {
+        "ModelName": "cv_yolov5_video-multi-object-tracking_fairmot",
+        "ModelPath": "damo",
+        "ModelTask": "video-multi-object-tracking",
+        "ModelVersion": "v2.0.0"
+    },
+    "cv_convnext-base_image-classification_garbage": {
+        "ModelName": "cv_convnext-base_image-classification_garbage",
+        "ModelPath": "damo",
+        "ModelTask": "image-classification",
+        "ModelVersion": "v1.0.2"
+    },
+    "cv_tinynas_object-detection_damoyolo_facemask": {
+        "ModelName": "cv_tinynas_object-detection_damoyolo_facemask",
+        "ModelPath": "damo",
+        "ModelTask": "domain-specific-object-detection",
+        "ModelVersion": "v1.1.0"
+    },
+    "nlp_lstm_named-entity-recognition_chinese-news": {
+        "ModelName": "nlp_lstm_named-entity-recognition_chinese-news",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_structbert_outbound-intention_chinese-tiny": {
+        "ModelName": "nlp_structbert_outbound-intention_chinese-tiny",
+        "ModelPath": "damo",
+        "ModelTask": "text-classification",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_tinynas_object-detection_damoyolo_cigarette": {
+        "ModelName": "cv_tinynas_object-detection_damoyolo_cigarette",
+        "ModelPath": "damo",
+        "ModelTask": "domain-specific-object-detection",
+        "ModelVersion": "v1.1.0"
+    },
+    "cv_tinynas_object-detection_damoyolo_smokefire": {
+        "ModelName": "cv_tinynas_object-detection_damoyolo_smokefire",
+        "ModelPath": "damo",
+        "ModelTask": "domain-specific-object-detection",
+        "ModelVersion": "v0.0.1"
+    },
+    "ofa_visual-question-answering_pretrain_large_en": {
+        "ModelName": "ofa_visual-question-answering_pretrain_large_en",
+        "ModelPath": "damo",
+        "ModelTask": "visual-question-answering",
+        "ModelVersion": "v1.0.1"
+    },
+    "cv_unet_person-image-cartoon-3d_compound-models": {
+        "ModelName": "cv_unet_person-image-cartoon-3d_compound-models",
+        "ModelPath": "damo",
+        "ModelTask": "image-portrait-stylization",
+        "ModelVersion": "v1.0.1"
+    },
+    "cv_resnet34_face-attribute-recognition_fairface": {
+        "ModelName": "cv_resnet34_face-attribute-recognition_fairface",
+        "ModelPath": "damo",
+        "ModelTask": "face-attribute-recognition",
+        "ModelVersion": "v2.0.2"
+    },
+    "nlp_lstmcrf_word-segmentation_chinese-ecommerce": {
+        "ModelName": "nlp_lstmcrf_word-segmentation_chinese-ecommerce",
+        "ModelPath": "damo",
+        "ModelTask": "word-segmentation",
+        "ModelVersion": "v0.1"
+    },
+    "cv_LightweightEdge_ocr-recognitoin-general_damo": {
+        "ModelName": "cv_LightweightEdge_ocr-recognitoin-general_damo",
+        "ModelPath": "damo",
+        "ModelTask": "ocr-recognition",
+        "ModelVersion": "v2.4.1"
+    },
+    "cv_vit-base_image-classification_ImageNet-labels": {
+        "ModelName": "cv_vit-base_image-classification_ImageNet-labels",
+        "ModelPath": "damo",
+        "ModelTask": "image-classification",
+        "ModelVersion": "v1.0.2"
+    },
+    "cv_cspnet_image-object-detection_yolox_nano_coco": {
+        "ModelName": "cv_cspnet_image-object-detection_yolox_nano_coco",
+        "ModelPath": "damo",
+        "ModelTask": "image-object-detection",
+        "ModelVersion": "v2.0.0"
+    },
+    "nlp_lstm_named-entity-recognition_chinese-resume": {
+        "ModelName": "nlp_lstm_named-entity-recognition_chinese-resume",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_convnextTiny_ocr-recognition-handwritten_damo": {
+        "ModelName": "cv_convnextTiny_ocr-recognition-handwritten_damo",
+        "ModelPath": "damo",
+        "ModelTask": "ocr-recognition",
+        "ModelVersion": "v2.4.0"
+    },
+    "nlp_palm2.0_text-generation_weather_chinese-base": {
+        "ModelName": "nlp_palm2.0_text-generation_weather_chinese-base",
+        "ModelPath": "damo",
+        "ModelTask": "text-generation",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_vit-base_image-classification_Dailylife-labels": {
+        "ModelName": "cv_vit-base_image-classification_Dailylife-labels",
+        "ModelPath": "damo",
+        "ModelTask": "image-classification",
+        "ModelVersion": "v1.0.3"
+    },
+    "cv_vitadapter_semantic-segmentation_cocostuff164k": {
+        "ModelName": "cv_vitadapter_semantic-segmentation_cocostuff164k",
+        "ModelPath": "damo",
+        "ModelTask": "image-segmentation",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_lstm_named-entity-recognition_chinese-generic": {
+        "ModelName": "nlp_lstm_named-entity-recognition_chinese-generic",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_convnextTiny_ocr-recognition-licenseplate_damo": {
+        "ModelName": "cv_convnextTiny_ocr-recognition-licenseplate_damo",
+        "ModelPath": "damo",
+        "ModelTask": "ocr-recognition",
+        "ModelVersion": "v2.4.0"
+    },
+    "cv_tinynas_object-detection_damoyolo_traffic_sign": {
+        "ModelName": "cv_tinynas_object-detection_damoyolo_traffic_sign",
+        "ModelPath": "damo",
+        "ModelTask": "domain-specific-object-detection",
+        "ModelVersion": "v1.0.1"
+    },
+    "nlp_palm2.0_text-generation_commodity_chinese-base": {
+        "ModelName": "nlp_palm2.0_text-generation_commodity_chinese-base",
+        "ModelPath": "damo",
+        "ModelTask": "text-generation",
+        "ModelVersion": "v1.0.0"
+    },
+    "multi-modal_hitea_video-question-answering_base_en": {
+        "ModelName": "multi-modal_hitea_video-question-answering_base_en",
+        "ModelPath": "damo",
+        "ModelTask": "video-question-answering",
+        "ModelVersion": "v1.1.0"
+    },
+    "nlp_structbert_emotion-classification_chinese-tiny": {
+        "ModelName": "nlp_structbert_emotion-classification_chinese-tiny",
+        "ModelPath": "damo",
+        "ModelTask": "text-classification",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_structbert_emotion-classification_chinese-base": {
+        "ModelName": "nlp_structbert_emotion-classification_chinese-base",
+        "ModelPath": "damo",
+        "ModelTask": "text-classification",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_tinynas_object-detection_damoyolo_safety-helmet": {
+        "ModelName": "cv_tinynas_object-detection_damoyolo_safety-helmet",
+        "ModelPath": "damo",
+        "ModelTask": "domain-specific-object-detection",
+        "ModelVersion": "v1.1.0"
+    },
+    "nlp_raner_named-entity-recognition_english-large-ai": {
+        "ModelName": "nlp_raner_named-entity-recognition_english-large-ai",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_unet_person-image-cartoon-sketch_compound-models": {
+        "ModelName": "cv_unet_person-image-cartoon-sketch_compound-models",
+        "ModelPath": "damo",
+        "ModelTask": "image-portrait-stylization",
+        "ModelVersion": "v1.0.1"
+    },
+    "cv_maskdino-swin-l_image-instance-segmentation_coco": {
+        "ModelName": "cv_maskdino-swin-l_image-instance-segmentation_coco",
+        "ModelPath": "damo",
+        "ModelTask": "image-segmentation",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_bnext-small_image-classification_ImageNet-labels": {
+        "ModelName": "cv_bnext-small_image-classification_ImageNet-labels",
+        "ModelPath": "damo",
+        "ModelTask": "image-classification",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_structbert_sentiment-classification_chinese-base": {
+        "ModelName": "nlp_structbert_sentiment-classification_chinese-base",
+        "ModelPath": "damo",
+        "ModelTask": "text-classification",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_structbert_zero-shot-classification_chinese-base": {
+        "ModelName": "nlp_structbert_zero-shot-classification_chinese-base",
+        "ModelPath": "damo",
+        "ModelTask": "zero-shot-classification",
+        "ModelVersion": "v1.0.2"
+    },
+    "nlp_structbert_sentiment-classification_chinese-tiny": {
+        "ModelName": "nlp_structbert_sentiment-classification_chinese-tiny",
+        "ModelPath": "damo",
+        "ModelTask": "text-classification",
+        "ModelVersion": "v1.0.1"
+    },
+    "nlp_raner_named-entity-recognition_chinese-base-news": {
+        "ModelName": "nlp_raner_named-entity-recognition_chinese-base-news",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_raner_named-entity-recognition_chinese-base-book": {
+        "ModelName": "nlp_raner_named-entity-recognition_chinese-base-book",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_raner_named-entity-recognition_chinese-base-game": {
+        "ModelName": "nlp_raner_named-entity-recognition_chinese-base-game",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_raner_named-entity-recognition_chinese-base-bank": {
+        "ModelName": "nlp_raner_named-entity-recognition_chinese-base-bank",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_structbert_zero-shot-classification_chinese-tiny": {
+        "ModelName": "nlp_structbert_zero-shot-classification_chinese-tiny",
+        "ModelPath": "damo",
+        "ModelTask": "zero-shot-classification",
+        "ModelVersion": "v1.0.2"
+    },
+    "nlp_raner_named-entity-recognition_chinese-base-ecom": {
+        "ModelName": "nlp_raner_named-entity-recognition_chinese-base-ecom",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_structbert_zero-shot-classification_chinese-large": {
+        "ModelName": "nlp_structbert_zero-shot-classification_chinese-large",
+        "ModelPath": "damo",
+        "ModelTask": "zero-shot-classification",
+        "ModelVersion": "v1.0.2"
+    },
+    "nlp_structbert_sentiment-classification_chinese-large": {
+        "ModelName": "nlp_structbert_sentiment-classification_chinese-large",
+        "ModelPath": "damo",
+        "ModelTask": "text-classification",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_raner_named-entity-recognition_chinese-base-cmeee": {
+        "ModelName": "nlp_raner_named-entity-recognition_chinese-base-cmeee",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_raner_named-entity-recognition_english-large-news": {
+        "ModelName": "nlp_raner_named-entity-recognition_english-large-news",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_unet_person-image-cartoon-artstyle_compound-models": {
+        "ModelName": "cv_unet_person-image-cartoon-artstyle_compound-models",
+        "ModelPath": "damo",
+        "ModelTask": "image-portrait-stylization",
+        "ModelVersion": "v1.0.1"
+    },
+    "nlp_raner_named-entity-recognition_english-large-ecom": {
+        "ModelName": "nlp_raner_named-entity-recognition_english-large-ecom",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_xlmr_named-entity-recognition_eng-ecommerce-title": {
+        "ModelName": "nlp_xlmr_named-entity-recognition_eng-ecommerce-title",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_xlmr_named-entity-recognition_eng-ecommerce-query": {
+        "ModelName": "nlp_xlmr_named-entity-recognition_eng-ecommerce-query",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_raner_named-entity-recognition_chinese-base-resume": {
+        "ModelName": "nlp_raner_named-entity-recognition_chinese-base-resume",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_lstm_named-entity-recognition_chinese-social_media": {
+        "ModelName": "nlp_lstm_named-entity-recognition_chinese-social_media",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_raner_named-entity-recognition_english-large-music": {
+        "ModelName": "nlp_raner_named-entity-recognition_english-large-music",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_raner_named-entity-recognition_hindi-large-generic": {
+        "ModelName": "nlp_raner_named-entity-recognition_hindi-large-generic",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_raner_named-entity-recognition_dutch-large-generic": {
+        "ModelName": "nlp_raner_named-entity-recognition_dutch-large-generic",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_unet_person-image-cartoon-handdrawn_compound-models": {
+        "ModelName": "cv_unet_person-image-cartoon-handdrawn_compound-models",
+        "ModelPath": "damo",
+        "ModelTask": "image-portrait-stylization",
+        "ModelVersion": "v1.0.1"
+    },
+    "nlp_xlmr_named-entity-recognition_thai-ecommerce-title": {
+        "ModelName": "nlp_xlmr_named-entity-recognition_thai-ecommerce-title",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.1"
+    },
+    "nlp_xlmr_named-entity-recognition_viet-ecommerce-title": {
+        "ModelName": "nlp_xlmr_named-entity-recognition_viet-ecommerce-title",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.1"
+    },
+    "nlp_xlmr_named-entity-recognition_indo-ecommerce-title": {
+        "ModelName": "nlp_xlmr_named-entity-recognition_indo-ecommerce-title",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.1"
+    },
+    "nlp_xlmr_named-entity-recognition_viet-ecommerce-query": {
+        "ModelName": "nlp_xlmr_named-entity-recognition_viet-ecommerce-query",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.1"
+    },
+    "cv_nextvit-small_image-classification_Dailylife-labels": {
+        "ModelName": "cv_nextvit-small_image-classification_Dailylife-labels",
+        "ModelPath": "damo",
+        "ModelTask": "image-classification",
+        "ModelVersion": "v0.2"
+    },
+    "cv_unet_person-image-cartoon-sd-design_compound-models": {
+        "ModelName": "cv_unet_person-image-cartoon-sd-design_compound-models",
+        "ModelPath": "damo",
+        "ModelTask": "image-portrait-stylization",
+        "ModelVersion": "v1.0.1"
+    },
+    "nlp_raner_named-entity-recognition_chinese-base-generic": {
+        "ModelName": "nlp_raner_named-entity-recognition_chinese-base-generic",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_raner_named-entity-recognition_chinese-base-finance": {
+        "ModelName": "nlp_raner_named-entity-recognition_chinese-base-finance",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_raner_named-entity-recognition_bangla-large-generic": {
+        "ModelName": "nlp_raner_named-entity-recognition_bangla-large-generic",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_raner_named-entity-recognition_german-large-generic": {
+        "ModelName": "nlp_raner_named-entity-recognition_german-large-generic",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_raner_named-entity-recognition_korean-large-generic": {
+        "ModelName": "nlp_raner_named-entity-recognition_korean-large-generic",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_structbert_word-segmentation_chinese-base-ecommerce": {
+        "ModelName": "nlp_structbert_word-segmentation_chinese-base-ecommerce",
+        "ModelPath": "damo",
+        "ModelTask": "word-segmentation",
+        "ModelVersion": "v1.0.3"
+    },
+    "nlp_structbert_word-segmentation_chinese-lite-ecommerce": {
+        "ModelName": "nlp_structbert_word-segmentation_chinese-lite-ecommerce",
+        "ModelPath": "damo",
+        "ModelTask": "word-segmentation",
+        "ModelVersion": "v1.0.3"
+    },
+    "nlp_raner_named-entity-recognition_english-large-science": {
+        "ModelName": "nlp_raner_named-entity-recognition_english-large-science",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_raner_named-entity-recognition_english-large-generic": {
+        "ModelName": "nlp_raner_named-entity-recognition_english-large-generic",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_raner_named-entity-recognition_spanish-large-generic": {
+        "ModelName": "nlp_raner_named-entity-recognition_spanish-large-generic",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_raner_named-entity-recognition_chinese-large-generic": {
+        "ModelName": "nlp_raner_named-entity-recognition_chinese-large-generic",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.1"
+    },
+    "nlp_raner_named-entity-recognition_chinese-base-literature": {
+        "ModelName": "nlp_raner_named-entity-recognition_chinese-base-literature",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_raner_named-entity-recognition_chinese-base-ecom-50cls": {
+        "ModelName": "nlp_raner_named-entity-recognition_chinese-base-ecom-50cls",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "moran-cv_unet_person-image-cartoon-genshin_compound-models": {
+        "ModelName": "moran-cv_unet_person-image-cartoon-genshin_compound-models",
+        "ModelPath": "lskhh",
+        "ModelTask": "image-portrait-stylization",
+        "ModelVersion": "v1.0.5"
+    },
+    "nlp_raner_named-entity-recognition_english-large-literature": {
+        "ModelName": "nlp_raner_named-entity-recognition_english-large-literature",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_raner_named-entity-recognition_chinese-base-social_media": {
+        "ModelName": "nlp_raner_named-entity-recognition_chinese-base-social_media",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_unet_person-image-cartoon-sd-illustration_compound-models": {
+        "ModelName": "cv_unet_person-image-cartoon-sd-illustration_compound-models",
+        "ModelPath": "damo",
+        "ModelTask": "image-portrait-stylization",
+        "ModelVersion": "v1.0.1"
+    },
+    "nlp_structbert_sentiment-classification_chinese-ecommerce-base": {
+        "ModelName": "nlp_structbert_sentiment-classification_chinese-ecommerce-base",
+        "ModelPath": "damo",
+        "ModelTask": "text-classification",
+        "ModelVersion": "v1.0.0"
+    },
+    "cv_beitv2-base_image-classification_patch16_224_pt1k_ft22k_in1k": {
+        "ModelName": "cv_beitv2-base_image-classification_patch16_224_pt1k_ft22k_in1k",
+        "ModelPath": "damo",
+        "ModelTask": "image-classification",
+        "ModelVersion": "v1.0.1"
+    },
+    "nlp_structbert_keyphrase-extraction_base-icassp2023-mug-track4-baseline": {
+        "ModelName": "nlp_structbert_keyphrase-extraction_base-icassp2023-mug-track4-baseline",
+        "ModelPath": "damo",
+        "ModelTask": "named-entity-recognition",
+        "ModelVersion": "v1.0.0"
+    },
+    "nlp_csanmt_translation_zh2en": {
+        "ModelName": "nlp_csanmt_translation_zh2en",
+        "ModelPath": "damo",
+        "ModelTask": "translation",
+        "ModelVersion": "v1.0.1"
+    },
+    "text-to-video-synthesis": {
+        "ModelName": "text-to-video-synthesis",
+        "ModelPath": "damo",
+        "ModelTask": "text-to-video-synthesis",
+        "ModelVersion": "v1.1.0"
+    }
+}
